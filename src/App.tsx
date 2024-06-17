@@ -26,7 +26,7 @@ function setTasksToLocalStorage() {
  let curentTaskId: number = 0;
 
 // управляет видимостью формы
-let user: User = { name: 'Ната', }
+let user: User = { name: 'Elena', }
 
 // временно для отладки MOK
 // tasks.push({
